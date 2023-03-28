@@ -16,3 +16,7 @@ function getGrade() {
       return "Grade: E";
     }
   }
+  let result = getGrade();
+alert(result);
+
+getGrade();

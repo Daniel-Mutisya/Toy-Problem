@@ -16,4 +16,4 @@ function calculateDemeritPoints(speed) {
       console.log("Points: " + demeritPoints);
     }
   }
-  calculateDemeritPoints(80);
+  calculateDemeritPoints(150);

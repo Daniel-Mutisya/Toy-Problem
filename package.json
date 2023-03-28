@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Daniel-Mutisya/Toy-Problem/issues"
   },
-  "homepage": "https://github.com/Daniel-Mutisya/Toy-Problem#readme"
+  "homepage": "https://github.com/Daniel-Mutisya/Toy-Problem#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
